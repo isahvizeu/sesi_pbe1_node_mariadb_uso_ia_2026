@@ -1,0 +1,27 @@
+{
+  "name": "sesi_pbe1_node_mariadb_uso_ia_2026",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isahvizeu/sesi_pbe1_node_mariadb_uso_ia_2026.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/isahvizeu/sesi_pbe1_node_mariadb_uso_ia_2026/issues"
+  },
+  "homepage": "https://github.com/isahvizeu/sesi_pbe1_node_mariadb_uso_ia_2026#readme",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
